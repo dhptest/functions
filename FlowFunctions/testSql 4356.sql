@@ -1,0 +1,1 @@
+SELECT * FROM cap.asset_edit_cache;
